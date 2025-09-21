@@ -1,3 +1,3 @@
 # html-CSE14
-this is my first git repository
-Aurthor - Anuragsingh chauhan
+this is my first git repository.
+Aurthor - Anurag singh chauhan
